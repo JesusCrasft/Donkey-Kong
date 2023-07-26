@@ -1,5 +1,5 @@
 # Donkey Kong
-> s un juego basado en Donkey Kong
+> Es un juego basado en Donkey Kong
 
 > Es un juego de practica que desarrolle
 
